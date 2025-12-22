@@ -1,2 +1,2 @@
-# GenAI-Intelligent-Assistant
-An end-to-end Generative AI application that leverages large language models to intelligently understand user queries, generate context-aware responses, and automate tasks through prompt-driven reasoning and structured workflows.
+# groq-llama-genai-cold email generator
+A RAG-based Generative AI system that uses LLaMA 3.1 via Groq, LangChain, and ChromaDB to automatically generate personalized cold emails by extracting job requirements from career pages and matching them with portfolio data using semantic search.
